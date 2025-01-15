@@ -1,7 +1,6 @@
 # My-ARP-Spoofer
 POC: Python implementation of Spoofing and Detection
 
-
 This uses Python 3.
 To install the requirements:
 ````
